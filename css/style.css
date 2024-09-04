@@ -16,7 +16,6 @@ button{
 .container{
     width: 80%;
     margin: auto;
-    height: 100vh;
 }
 .title{
     text-align: center;
@@ -269,10 +268,9 @@ text-transform: uppercase;
 .choose_p{
     float: left;
     line-height: 30px;
-   
-   
 }
 .title1{
+    margin-top:50px;
     font-size: 30px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -383,7 +381,7 @@ text-transform: uppercase;
 }
 /* ////////////////////////////////////////////////////////////section 9 000000000*/
 .para_parent{
-    margin-top: -70px;
+    margin-top: 100px;
     padding-top: 40px;
 }
 .para{
@@ -507,6 +505,7 @@ background-color: rgb(124, 182, 98);
     margin: auto;
 }
 .last{
+    margin-top:50px;
 text-align: center;
 }
 .last img{
